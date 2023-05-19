@@ -4,7 +4,7 @@
 This project is based of following existing projects:\
 http://www.carnut.info/IC-705/ICOM_IC-705.html#BT "BLUETOOTH SWITCHING"\
 https://www.qrz.com/db/pe1ofo "IC-705 BLUETOOTH CONTROLLER"\
-https://github.com/WillyIoBrok/CIVmasterLib Wilfried(DK8RW) who has made an excellent library for control ICOM transceivers with CI-V and ESP32\
+https://github.com/WillyIoBrok/CIVmasterLib Wilfried(DK8RW) who has made an excellent library for control ICOM transceivers with CI-V and ESP32
 
 and an article from DD6USB "Steuerung einer KW-Endstufe am Icom IC-705 via Bluetooth " in a German hamradio magazine FUNKAMATEUR published in edition at May 2022.  
 
