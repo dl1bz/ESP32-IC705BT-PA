@@ -59,14 +59,14 @@ GND |-------------| 2  5 |---> PTT PA
                   +------+
 
 Be aware: PIN_26 ESP32 output is H active, PTT PA is L active with this example.
-If using band-switching you need shorten both GND, because we need a GND for band voltage signal !
+If using band-switching you need short both GND, because we need a GND for band voltage signal !
 Analog output band voltage signal is PIN_27 of ESP32
 ```
 
 **Remarks only for Micro PA50:**
 Micro PA50 3.5mm headphone jack backside:
 ```
-Tip    (1) - PTT (L active, if tip and GND shorten the PA will switch ON)
+Tip    (1) - PTT (L active, if tip and GND short the PA will switch ON)
 Ring   (2) - band-data voltage input
              select XIEGU protocol: press 5x FN button multiple until XIEGU is shown,
              for band-voltages look in the manual of XIEGU XPA125B
@@ -77,7 +77,7 @@ But I had have sometimes a few issues if I using RF-VOX at 17m and 21m with a "f
 The manually band-switch will be deactivated too if the 3.5mm plug put in.
 
 **Remarks only for XIEGU XPA125B:**
-For wiring the Mini-DIN (6 pole) jack of XPA125B look in the manual. Same functionality like Micro PA50. PTT switch also L-active, shorten the PTT-PIN to ground/GND will the XPA125B switch ON too.
+For wiring the Mini-DIN (6 pole) jack of XPA125B look in the manual. Same functionality like Micro PA50. PTT switch also L-active, short the PTT-PIN to ground/GND will the XPA125B switch ON too.
 
 **Do not overdrive the PA, the RF input for both PA is 5W as maximum !**
 
