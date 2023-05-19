@@ -33,6 +33,10 @@ This project demonstrates one possibility to control a power amplifier switch ON
 You will need some additional electronic components between ESP32 and the IC-705. The ESP32 is using GPIO for PTT switching (H or L active, can be set) and DAC analog output for generating the voltage for band-switching.
 The generated voltage is programmed for PA which support XIEGUs band-switching protocol (can be adapted easy for other protocols, look and understand the program code).
 
+## Schematic ##
+
+...coming soon, please be patient. I will be testing some additional things, until I get all the electronic parts.
+
 ## Final words for note ##
 This program is free software; you can redistribute it and/or modify it how you want.
 This codebase is a "work in progress","as is" without any kind of support.
