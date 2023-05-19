@@ -46,6 +46,19 @@ The generated voltage is programmed for PA which support XIEGUs band-switching p
 
 ...coming soon, please be patient. I will be testing some additional things, until I get all the electronic parts.
 
+```
+PTT:
+
+    |ESP32|       4N25      |PA|
+                +------+
+PIN_26>-|220|---| 1  6 |
+				|      | 
+  GND |---------| 2  5 |---> PTT PA  
+				|      |
+			    | 3  4 |---| GND PA
+				+------+
+```
+
 **Remarks only for Micro PA50:**
 Micro PA50 3.5mm headphone jack backside:
 ```
