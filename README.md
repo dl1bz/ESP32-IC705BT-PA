@@ -49,14 +49,14 @@ The generated voltage is programmed for PA which support XIEGUs band-switching p
 ```
 PTT:
 
-    |ESP32|       4N25      |PA|
-                +------+
-PIN_26>-|220|---| 1  6 |
-                |      |
-  GND |---------| 2  5 |---> PTT PA  
-                |      |
-                | 3  4 |---| GND PA
-                +------+
+|ESP32|             4N25      |PA|
+                  +------+
+PIN_26 >--|220R|--| 1  6 |--
+                  |      |
+   GND |----------| 2  5 |---> PTT PA  
+                  |      |
+                --| 3  4 |---| GND PA
+                  +------+
 ```
 
 **Remarks only for Micro PA50:**
