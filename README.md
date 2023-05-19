@@ -1,7 +1,7 @@
 ---
 # Control a PA with an ESP32 LILYGO TTGO T-DISPLAY v1.1 and an ICOM IC-705 via Bluetooth ###
 
-This project is based of following existing projects:
+This project is based of following existing projects:\
 http://www.carnut.info/IC-705/ICOM_IC-705.html#BT "BLUETOOTH SWITCHING"\
 https://www.qrz.com/db/pe1ofo "IC-705 BLUETOOTH CONTROLLER"\
 https://github.com/WillyIoBrok/CIVmasterLib Wilfried(DK8RW) who has made an excellent library for control ICOM transceivers with CI-V and ESP32\
