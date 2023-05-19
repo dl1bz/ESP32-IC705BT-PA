@@ -58,7 +58,9 @@ GND |-------------| 2  5 |---> PTT PA
                 --| 3  4 |---| GND PA
                   +------+
 
-If using band-switching you need shorten both GND !
+Be aware: PIN_26 ESP32 output is H active, PTT PA is L active with this example.
+If using band-switching you need shorten both GND, because we need a GND for band voltage signal !
+Analog output band voltage signal is PIN_27 of ESP32
 ```
 
 **Remarks only for Micro PA50:**
