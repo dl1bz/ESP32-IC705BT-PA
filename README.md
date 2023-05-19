@@ -53,10 +53,12 @@ PTT:
                   +------+
 PIN_26 >--|220R|--| 1  6 |--
                   |      |
-   GND |----------| 2  5 |---> PTT PA  
+GND |-------------| 2  5 |---> PTT PA  
                   |      |
                 --| 3  4 |---| GND PA
                   +------+
+
+If using band-switching you need shorten both GND !
 ```
 
 **Remarks only for Micro PA50:**
