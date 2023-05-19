@@ -22,7 +22,7 @@ Please check for regularly updates from time to time of this dashboard, so pleas
 - some hardware components depend what you want to do with it
 - the source code is designed using Arduino IDE with ESP32 extensions, so please set-up your computing environment for using it, Google is your friend.
 
-## My test environnment ##
+## My test environment ##
 - development platform running Arduino IDE: PC WINDOWS 10 and Macbook Air M1 running macOS 12
 - ESP32: LILYGO TTGO T-DISPLAY v1.1 (WiFi/BT/Display 1,14" LCD)
 - PTT-switch: using an 4N25 optocoupler
