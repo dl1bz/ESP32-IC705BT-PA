@@ -17,7 +17,7 @@ Please check for regularly updates from time to time of this dashboard, so pleas
 
 ## Requirements ##
 - an ICOM IC-705 tranceiver
-- an PA with PTT-switch input (all models/manufacturer), automatic band-switching with a PA which supports XIEGUs band-switching protocol like XPA125B or Micro PA-50
+- a PA with PTT-switch input (all models/manufacturer), automatic band-switching with a PA which supports XIEGUs band-switching protocol like XPA125B or Micro PA-50
 - an ESP32 LILYGO TTGO T-DISPLAY
 - some hardware components depend what you want to do with it
 - the source code is designed using Arduino IDE with ESP32 extensions, so please set-up your computing environment for using it, Google is your friend.
