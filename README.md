@@ -48,9 +48,11 @@ The generated voltage is programmed for PA which support XIEGUs band-switching p
 
 **Remarks only for Micro PA50:**
 Micro PA50 3.5mm headphone jack backside:
+```
 Tip (1)    - PTT (L active, if tip and GND shorten the PA will switch ON)
 Ring (2)   - band-data voltage input (select XIEGU protocol: press 5x FN button), for band-voltages look in the manual of XIEGU XPA125B
 Sleeve (3) - Ground (GND)
+```
 The Micro PA50 will be bypass 160m and 6m by itself, because operating range is only between 80m-10m. Normally the Micro PA50 has a RF-VOX and can operate without external PTT switch. It has a frequency counter and can select the band by itself if using RF-VOX.
 But I had have sometimes a few issues if I using RF-VOX at 17m and 21m with a "fluttered" PTT. If you plug-in the 3.5mm plug in the Micro PA50, then the RF-VOX will be deactivated and the PA is controlled by external PTT AND band-switching.
 The manually band-switch will be deactivated too if the 3.5mm plug put in.
