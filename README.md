@@ -46,6 +46,10 @@ The generated voltage is programmed for PA which support XIEGUs band-switching p
 
 ...coming soon, please be patient. I will be testing some additional things, until I get all the electronic parts.
 
+## Conclusion ##
+For me this project is very helpful for better control my PAs Micro PA50 and my XIEGU XPA125B. Especially with the XPA125 I forgot sometimes to manually switch the right band if I change it.
+The PTT line is now galvanically isolated from the transceiver too for more protection. It works great via BT, we will have a delay for about 24ms with the PTT at PA side.
+
 ## Final words for note ##
 This program is free software; you can redistribute it and/or modify it how you want.
 This codebase is a "work in progress","as is" without any kind of support.
