@@ -51,7 +51,7 @@ Micro PA50 3.5mm headphone jack backside:
 ```
 Tip    (1) - PTT (L active, if tip and GND shorten the PA will switch ON)
 Ring   (2) - band-data voltage input
-             select XIEGU protocol: press 5x FN button multiple if XIEGU is shown,
+             select XIEGU protocol: press 5x FN button multiple until XIEGU is shown,
              for band-voltages look in the manual of XIEGU XPA125B
 Sleeve (3) - Ground (GND)
 ```
