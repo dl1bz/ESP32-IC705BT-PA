@@ -79,6 +79,8 @@ The manually band-switch will be deactivated too if the 3.5mm plug put in.
 **Remarks only for XIEGU XPA125B:**
 For wiring the Mini-DIN (6 pole) jack of XPA125B look in the manual. Same functionality like Micro PA50. PTT switch also L-active, shorten the PTT-PIN to ground/GND will the XPA125B switch ON too.
 
+**Do not overdrive the PA, the RF input for both PA is 5W as maximum !**
+
 ## Conclusion ##
 For me this project is very helpful for better control my PAs Micro PA50 and my XIEGU XPA125B. Especially with the XPA125 I forgot sometimes to manually switch the right band if I change it.
 The PTT line is now galvanically isolated from the transceiver too for more protection. It works great via BT, we will have a delay for about 24ms with the PTT at PA side.
