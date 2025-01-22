@@ -4,7 +4,7 @@
 From time to time I receive emails about this project. However, since I no longer own an IC-705, I have left this project accessible **for archival purposes only**. You can use it or modify it how you want, feel free with it. But I can't help anymore, if there any questions about.<br>
 It was one of my first and oldest project when I started with developments around the ESP32 and hamradio.<br>
 Today I don't use it anymore, because I now use a SDR-system with a Hermes Lite 2 and that is it, what I'm currently developing things for.<br>
-In the meantime many things around the ESP32 platform were changed and updated, I can no longer say for sure whether this project needs a code revision. When I started and developed this project, I was working with the Arduino IDE 2.x and the ESP32 platform 2.x. Today we have now platform 3.x, which needs a code revise and new code adjustments. However, I will not revise this project any more.
+In the meantime many things around the ESP32 platform were changed and updated, I can no longer say for sure whether this project needs a code revision. When I started and developed this project, I was working with the Arduino IDE 2.x and the ESP32 platform 2.x. Today we have now platform 3.x, which needs a code revise and new code adjustments. However, I will not revise this project any more, neither now nor later.
 
 # Control a PA with an ESP32 LILYGO TTGO T-DISPLAY v1.1 and an ICOM IC-705 via Bluetooth ###
 
