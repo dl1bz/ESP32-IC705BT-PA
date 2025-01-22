@@ -1,5 +1,5 @@
 ---
-## Notification, please read this
+## Important notification, please read this first
 
 From time to time I receive emails about this project. However, since I no longer own an IC-705, I have left this project accessible for archival purposes only. You can use it or modify it how you want, feel free with it. But I can't help anymore, if there any questions about.<br>
 It was one of my first and oldest project when I started with developments around the ESP32 and hamradio.<br>
